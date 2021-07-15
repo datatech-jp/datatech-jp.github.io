@@ -8,3 +8,6 @@
 
 ## Contact
 Slack：TBD
+
+### Organizer
+@chie8842 @yuzutas0 @nii_yan @syou6162 (順不同)
