@@ -12,6 +12,8 @@
 
 ## 開催イベント
 - [輪読会](reading_circle.md)
+- [datatech-jp Casual Talks](https://datatech-jp.connpass.com/)
+- 困りごと相談会などなど・・・
 
 ## Contact
 datatech-jpのメンバーが集まるSlackのワークスペースを用意しています。
