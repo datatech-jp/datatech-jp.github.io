@@ -8,4 +8,6 @@
 | [改正個人情報保護法実務ガイドブック](https://www.amazon.co.jp/dp/4296110926/) | #改正個人情報保護法実務ガイドブック |
 | [Star Schema The Complete Reference](https://www.amazon.co.jp/Star-Schema-Complete-Reference-English-ebook/dp/B003Y8YWAE/) | #star-schema-the-complete-reference  |
 | [Building a Scalable Data Warehouse with Data Vault 2.0](https://www.amazon.co.jp/Building-Scalable-Data-Warehouse-Vault/dp/0128025107/) | #data-vault-2_0  |
+| [Data Quality Fundamentals: A Practitioner's Guide to Building Trustworthy Data Pipelines](https://amzn.asia/d/5YznKCn) | #data-quality-fundamentals
 
+  |
