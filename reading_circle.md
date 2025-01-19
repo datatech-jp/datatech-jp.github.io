@@ -9,3 +9,5 @@
 | [Star Schema The Complete Reference](https://www.amazon.co.jp/Star-Schema-Complete-Reference-English-ebook/dp/B003Y8YWAE/) | #star-schema-the-complete-reference  |
 | [Building a Scalable Data Warehouse with Data Vault 2.0](https://www.amazon.co.jp/Building-Scalable-Data-Warehouse-Vault/dp/0128025107/) | #data-vault-2_0  |
 | [Data Quality Fundamentals: A Practitioner's Guide to Building Trustworthy Data Pipelines](https://www.amazon.co.jp/dp/B0BCTSLG9M/) | #data-quality-fundamentals|
+| [Driving Data Quality with Data Contracts](https://www.amazon.co.jp/dp/B0C37FPH3D)| #driving-data-quality-with-data-contracts |
+| [レベニューオペレーションの教科書](https://www.amazon.co.jp/dp/479818733X) | #revops-books-member |
